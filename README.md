@@ -5,3 +5,5 @@ im fixing this again #isbeingindepedent
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ecaaxzcs2bjmbduekwq3lj7b5q&cover_image=true&theme=default&show_offline=true&background_color=131614&interchange=true&profanity=true&bar_color=99a998&bar_color_cover=false">
   </a>
 </p>
+<img width="736" height="414" alt="test" src="https://github.com/user-attachments/assets/86a01d45-21db-4410-9770-d587ce2ed5cd" />
+test
