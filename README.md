@@ -1,4 +1,5 @@
-<img width="755" height="755" alt="AAAAAAAA" src="https://github.com/user-attachments/assets/91c6db57-aea5-4667-8fa8-c2911eb2913b" />
+<img width="2048" height="1536" alt="10 sin título_20260705192739" src="https://github.com/user-attachments/assets/8771f061-3106-4ed5-9571-91658b6907e4" />
+im fixing this again #isbeingindepedent
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ecaaxzcs2bjmbduekwq3lj7b5q&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ecaaxzcs2bjmbduekwq3lj7b5q&cover_image=true&theme=default&show_offline=true&background_color=131614&interchange=true&profanity=true&bar_color=99a998&bar_color_cover=false">
